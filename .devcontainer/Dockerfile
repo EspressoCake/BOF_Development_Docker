@@ -7,5 +7,6 @@ RUN apk add bash \
     mingw-w64-gcc \
     i686-mingw-w64-gcc \
     nano \
+    nasm \
     vim
 
